@@ -127,9 +127,9 @@ body {
 }
 
 .contact-item:hover {
-    background: red;
+    background: lightsalmon;
     transform: scale(1.05);
-    border-radius: 120px;
+    border-radius: 100px;
 }
 
 .contact-item i {
@@ -399,3 +399,4 @@ ul li::before {
 .section:nth-child(6) { animation-delay: 1s; }
 .section:nth-child(7) { animation-delay: 1.2s; }
 .section:nth-child(8) { animation-delay: 1.4s; }
+
