@@ -39,6 +39,7 @@ body {
     text-align: center;
     z-index: 1;
     color: black;
+    font-family: italic;
 }
 
 .name {
@@ -83,11 +84,11 @@ body {
 }
 
 .picture img {
-    width: 220px;
-    height: 220px;
-    border-radius: 10%;
-    border: 5px solid rgba(255, 255, 255, 0.3);
-    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border:20px ;
+    
     transition: transform 0.3s ease;
 }
 
@@ -112,6 +113,7 @@ body {
     box-shadow: 0 8px 20px blue ;
     overflow: hidden;
     transition: transform 0.3s ease;
+    font-family: solid italic;
 }
 
 .contact-info:hover {
@@ -175,6 +177,7 @@ body {
 }
 
 h2 {
+    font-family: solid italic;
     font-size: 2.5rem;
     font-weight: 600;
     margin-bottom: 20px;
